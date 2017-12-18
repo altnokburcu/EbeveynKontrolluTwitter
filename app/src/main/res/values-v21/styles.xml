@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="colorPrimary">@color/twitter_blue</item>
+        <item name="colorAccent">@color/twitter_blue</item>
+
+        <!-- Define style for status bar -->
+        <item name="android:statusBarColor">@color/twitter_blue_fill_pressed</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.codepath.apps.twitterfilter.EbeveynActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/wideLayout">
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Kullanıcı Adı"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"/>
+
+        <EditText
+            android:id="@+id/password"
+            android:hint="Parola"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:inputType="textPassword"
+            android:layout_below="@+id/username"
+            android:layout_marginTop="10dp" />
+
+        <Button
+            android:id="@+id/ebv_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ebeveyn Girişi"
+            android:layout_below="@+id/password"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

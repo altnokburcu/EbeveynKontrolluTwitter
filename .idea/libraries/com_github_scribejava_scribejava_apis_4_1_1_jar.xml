@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.github.scribejava:scribejava-apis:4.1.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-apis/4.1.1/563959d2d4045e82477ca3231a6dee2d7fe33d5b/scribejava-apis-4.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-apis/4.1.1/7a90fd317cabcc079314042a8361791381eebf29/scribejava-apis-4.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

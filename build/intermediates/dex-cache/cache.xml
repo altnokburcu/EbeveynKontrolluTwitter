@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\34d3a19dc0afb46ce55582b33ee6bfb007cde46d\output\jars\libs\codepath-utils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab36837aece02090c706e6a7911e97a45ea1a4ea">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\codepath-utils_b8b7167921dd208fec24e09f1bc5022c3847c469\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\f7474ecf1350f89874fa1787ccddd7fb3ff6243c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be83e5291e21d4d334a992bf63455d32dc2e53c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\504e854f290e099651c4a5cd15e7c03f9a5898e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="315b30f0da612e85c2efabc160cc3f4c43e31364">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b1019e3227224da432abf9ad5b2f0e954ef2c1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f63b9443c775e6dc84f20334f0c5262797f5ddb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_51687f955983703abdb17eefa8aae02ba92ab37a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.gradle\caches\modules-2\files-2.1\com.github.scribejava\scribejava-core\4.1.1\3608f03fd9a3a881784d5abac2fef685e77686aa\scribejava-core-4.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3608f03fd9a3a881784d5abac2fef685e77686aa">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\scribejava-core-4.1.1_31ba0f84460a8f1f98c0457586ede963c80c758b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.6.0_2cbbb3aa147b1a72b9a178024047c342c2df7bc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d3749ac70f1eb096180ff769217159471d4663d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_46c4f5dbf3bffd28c5bd2b75665ab7f5983b51ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.gradle\caches\modules-2\files-2.1\com.github.scribejava\scribejava-apis\4.1.1\563959d2d4045e82477ca3231a6dee2d7fe33d5b\scribejava-apis-4.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="563959d2d4045e82477ca3231a6dee2d7fe33d5b">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\scribejava-apis-4.1.1_803bbc6e901a47b483090a18b78ac1584b0753e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.gradle\caches\modules-2\files-2.1\com.github.Raizlabs.DBFlow\dbflow-core\4.0.3\3e6f22633c7903325603e264623619b0af533fc7\dbflow-core-4.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e6f22633c7903325603e264623619b0af533fc7">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\dbflow-core-4.0.3_0b38b17903824ef00cb5936877008624cdaf8ad1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\34d3a19dc0afb46ce55582b33ee6bfb007cde46d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb3913c0275fd055133de0c7308d9a0c2a87d227">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc294d0298ef0149156442d8570f83904b510432\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\177559e0a7a4572ff0b27066081d1e5b9fbd409d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_311e2abe48f20e89009f9dd87e092007e249792d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_8ed1ab643fa567f86e7ec49a426b64c4eae00d12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\2914a475faf5aaa011e7a3bec371f95859aff80b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3305fe8fabbf56b45fa503d29d691bc84290ff23">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f5461e90a3db971f05e67698a77a54a4697c081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\565f4c55493d49322b40adf7e70a0e214f59cd84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df4e1c88a79e7661884d58b7b1af000ddede767b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.8.0_415abe0c62b8dc236336b9b15431a5e6c990d158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2746d85f38bd2adba483c9f0f9526de02f0e75d">
+        <dex dex="C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_87e8d6fc53d753ddff1ee83ddafd696c8e8fa104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.gradle\caches\modules-2\files-2.1\org.parceler\parceler-api\1.1.6\2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5\parceler-api-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\parceler-api-1.1.6_90fcb91dfc1a34f89163b4b07e5e7adb84721274\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\0bec054212675ce2aeae60e4c5af8706c929a776\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8058100a0831528264c41e4ee148e4752e8f2483\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3b8420a3087b22a6ca9ff6e6d3947edd81bea24">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e25ce81fa7d8d0b37e687dbccd9143872cd71485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\d50424acfbfa33f2005374084d48b94a00f1a9af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8225be8bbaea7c75b98f920e211634fa8422316f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Burcu\.android\build-cache\c2c12b5d0ee41b4a9d497f9398e5c070d21ac32a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Burcu\Desktop\TwitterApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5bb1bc536ce1de5aafa9e6f6e45a4e54c4ec24d\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="medium_green">#ff17bf63</color>
+    <color name="medium_gray">#ffaab8c2</color>
+    <color name="medium_gray_30">#4daab8c2</color>
+    <color name="medium_gray_50">#80aab8c2</color>
+    <color name="light_gray">#ffccd6dd</color>
+    <color name="medium_red">#ffe0245e</color>
+    <color name="medium_red_30">#4de0245e</color>
+    <color name="medium_red_50">#80e0245e</color>
+    <color name="twitter_blue">#ff1da1f2</color>
+    <color name="twitter_blue_30">#4d1da1f2</color>
+    <color name="twitter_blue_50">#801da1f2</color>
+    <color name="twitter_blue_fill_pressed">#ff1370a9</color>
+    <color name="inline_action">@color/medium_gray</color>
+    <color name="inline_action_disabled">@color/medium_gray_30</color>
+    <color name="inline_action_like">@color/medium_red</color>
+    <color name="inline_action_like_pressed">@color/medium_red_50</color>
+    <color name="inline_action_pressed">@color/medium_gray_50</color>
+    <color name="inline_action_retweet">@color/medium_green</color>
+    <color name="inline_action_retweet_pressed">@color/medium_gray_50</color>
+    <color name="white">@android:color/white</color>
+    <color name="dark_gray">#ff657786</color>
+    <color name="gold">#ffffd700</color>
+</resources>

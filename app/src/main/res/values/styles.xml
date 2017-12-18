@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="colorPrimary">@color/twitter_blue</item>
+        <item name="colorAccent">@color/twitter_blue</item>
+
+        <!-- Define style for action bar -->
+        <item name="actionBarStyle">@style/Widget.AppTheme.ActionBar</item>
+        <item name="android:actionBarStyle">@style/Widget.AppTheme.ActionBar</item>
+
+        <!-- Define style for buttons -->
+        <item name="buttonStyle">@style/CustomButton</item>
+        <item name="android:buttonStyle">@style/CustomButton</item>
+    </style>
+
+    <style name="Widget.AppTheme.ActionBar" parent="Widget.AppCompat.ActionBar.Solid">
+        <!-- action bar background -->
+        <item name="background">@color/twitter_blue</item>
+        <!-- action bar elevation -->
+        <item name="elevation">4dp</item>
+    </style>
+
+    <style name="CustomButton" parent="Widget.AppCompat.Button">
+        <!-- button text color -->
+        <item name="android:textColor">@drawable/states_button_text</item>
+        <!-- button background -->
+        <item name="android:background">@drawable/states_button</item>
+
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+</resources>

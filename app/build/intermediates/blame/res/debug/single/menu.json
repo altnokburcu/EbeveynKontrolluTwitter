@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_timeline.xml",
+        "source": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\src\\main\\res\\menu\\menu_timeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\src\\main\\res\\menu\\login.xml"
+    }
+]

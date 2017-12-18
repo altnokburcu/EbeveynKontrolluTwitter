@@ -1,0 +1,442 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\dbflow-4.0.3.aar\9aa3c6c380414a06a7433a2de664465c\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\56d3d4ea8a49bddd260f3827ff1d102e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.codepath.libraries:android-oauth-handler:1.2.5] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\android-oauth-handler-1.2.5.aar\385581b8e09d937eae87348662fcc86f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f7c8647b7f3c6ba45347e162e29760ec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\aad500baf419889c13b869396c74d30a\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f481b707014abf338ad3579065c578d9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7b05d10885ab6d3424571519535ea853\AndroidManifest.xml:17:1-28:12
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\13c7fff63159cce63959ef929848a914\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443198986ae01c4cc9380839146799c6\AndroidManifest.xml:2:1-11:12
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\fc27ae88fadda88a9f25e0fcb9442de9\AndroidManifest.xml:2:1-12:12
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\1edd212a1de969e39d57076d07feaece\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\68bc0cb0ea646c96e6b04ad0072fbd3f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\42b8bf593a1d48661af25e1f69d29458\AndroidManifest.xml:2:1-4:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\1c03d8a1ff35cff65bf6121ec44ecd79\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\6e1fa3aaa70f927584cb7e8a83bfa0e8\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\08a341506b678e8e138608e643f3bd7c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f9ab34e5db6e122d3fb6bf4b45d7da14\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b6a9804b4ee5fa0765c70db4fd04cb1b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbaeef93e0fff01410a2dff5dfd5ab0b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\76d1c08544460574413d2077ef943df2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1d41367c33334eb8ca0741a5dda9d30b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ee6de4758f4fcf36a32d8b595da0afcf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a9ff0791c463732f6bace19936148500\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:12:5-49:19
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\dbflow-4.0.3.aar\9aa3c6c380414a06a7433a2de664465c\AndroidManifest.xml:11:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\dbflow-4.0.3.aar\9aa3c6c380414a06a7433a2de664465c\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\56d3d4ea8a49bddd260f3827ff1d102e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\56d3d4ea8a49bddd260f3827ff1d102e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f7c8647b7f3c6ba45347e162e29760ec\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f7c8647b7f3c6ba45347e162e29760ec\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f481b707014abf338ad3579065c578d9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f481b707014abf338ad3579065c578d9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7b05d10885ab6d3424571519535ea853\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7b05d10885ab6d3424571519535ea853\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443198986ae01c4cc9380839146799c6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443198986ae01c4cc9380839146799c6\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\68bc0cb0ea646c96e6b04ad0072fbd3f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\68bc0cb0ea646c96e6b04ad0072fbd3f\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\1c03d8a1ff35cff65bf6121ec44ecd79\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\1c03d8a1ff35cff65bf6121ec44ecd79\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\08a341506b678e8e138608e643f3bd7c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\08a341506b678e8e138608e643f3bd7c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f9ab34e5db6e122d3fb6bf4b45d7da14\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f9ab34e5db6e122d3fb6bf4b45d7da14\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b6a9804b4ee5fa0765c70db4fd04cb1b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b6a9804b4ee5fa0765c70db4fd04cb1b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbaeef93e0fff01410a2dff5dfd5ab0b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbaeef93e0fff01410a2dff5dfd5ab0b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\76d1c08544460574413d2077ef943df2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\76d1c08544460574413d2077ef943df2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1d41367c33334eb8ca0741a5dda9d30b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1d41367c33334eb8ca0741a5dda9d30b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ee6de4758f4fcf36a32d8b595da0afcf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ee6de4758f4fcf36a32d8b595da0afcf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a9ff0791c463732f6bace19936148500\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a9ff0791c463732f6bace19936148500\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:15:9-38
+	android:allowBackup
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:13:9-38
+activity#com.codepath.apps.twitterfilter.LoginActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:18:9-37:20
+	android:label
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:19:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:25:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:27:13-36:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:30:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:31:27-75
+data
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:33:17-35:62
+	android:host
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:34:21-55
+	android:scheme
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:35:21-59
+activity#com.codepath.apps.twitterfilter.TimelineActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:38:9-54
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:38:19-51
+activity#com.codepath.apps.twitterfilter.ComposeActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:39:9-41:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:41:13-55
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:40:13-44
+activity#com.codepath.apps.twitterfilter.DetailActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:42:9-52
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:42:19-49
+activity#com.codepath.apps.twitterfilter.ProfileActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:43:9-53
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:43:19-50
+activity#com.codepath.apps.twitterfilter.SearchActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:44:9-52
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:44:19-49
+activity#com.codepath.apps.twitterfilter.FollowersActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:45:9-55
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:45:19-52
+activity#com.codepath.apps.twitterfilter.FriendsActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:46:9-53
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:46:19-50
+activity#com.codepath.apps.twitterfilter.AddFilterActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:47:9-55
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:47:19-52
+activity#com.codepath.apps.twitterfilter.EbeveynActivity
+ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:48:9-62
+	android:name
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml:48:19-50
+uses-sdk
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\dbflow-4.0.3.aar\9aa3c6c380414a06a7433a2de664465c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\dbflow-4.0.3.aar\9aa3c6c380414a06a7433a2de664465c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\56d3d4ea8a49bddd260f3827ff1d102e\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\56d3d4ea8a49bddd260f3827ff1d102e\AndroidManifest.xml:21:5-23:62
+MERGED from [com.codepath.libraries:android-oauth-handler:1.2.5] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\android-oauth-handler-1.2.5.aar\385581b8e09d937eae87348662fcc86f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.2.5] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\android-oauth-handler-1.2.5.aar\385581b8e09d937eae87348662fcc86f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f7c8647b7f3c6ba45347e162e29760ec\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f7c8647b7f3c6ba45347e162e29760ec\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\aad500baf419889c13b869396c74d30a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\aad500baf419889c13b869396c74d30a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f481b707014abf338ad3579065c578d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f481b707014abf338ad3579065c578d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7b05d10885ab6d3424571519535ea853\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7b05d10885ab6d3424571519535ea853\AndroidManifest.xml:20:5-43
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\13c7fff63159cce63959ef929848a914\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.2.aar\13c7fff63159cce63959ef929848a914\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443198986ae01c4cc9380839146799c6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443198986ae01c4cc9380839146799c6\AndroidManifest.xml:5:5-7:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\fc27ae88fadda88a9f25e0fcb9442de9\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\fc27ae88fadda88a9f25e0fcb9442de9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\1edd212a1de969e39d57076d07feaece\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\1edd212a1de969e39d57076d07feaece\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\68bc0cb0ea646c96e6b04ad0072fbd3f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\68bc0cb0ea646c96e6b04ad0072fbd3f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\42b8bf593a1d48661af25e1f69d29458\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\42b8bf593a1d48661af25e1f69d29458\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\1c03d8a1ff35cff65bf6121ec44ecd79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\1c03d8a1ff35cff65bf6121ec44ecd79\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\6e1fa3aaa70f927584cb7e8a83bfa0e8\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\6e1fa3aaa70f927584cb7e8a83bfa0e8\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\08a341506b678e8e138608e643f3bd7c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\08a341506b678e8e138608e643f3bd7c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f9ab34e5db6e122d3fb6bf4b45d7da14\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f9ab34e5db6e122d3fb6bf4b45d7da14\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b6a9804b4ee5fa0765c70db4fd04cb1b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b6a9804b4ee5fa0765c70db4fd04cb1b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbaeef93e0fff01410a2dff5dfd5ab0b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbaeef93e0fff01410a2dff5dfd5ab0b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\76d1c08544460574413d2077ef943df2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\76d1c08544460574413d2077ef943df2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1d41367c33334eb8ca0741a5dda9d30b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1d41367c33334eb8ca0741a5dda9d30b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ee6de4758f4fcf36a32d8b595da0afcf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ee6de4758f4fcf36a32d8b595da0afcf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a9ff0791c463732f6bace19936148500\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a9ff0791c463732f6bace19936148500\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\56d3d4ea8a49bddd260f3827ff1d102e\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Burcu\Desktop\Android Projects\TwitterApp-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\56d3d4ea8a49bddd260f3827ff1d102e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f7c8647b7f3c6ba45347e162e29760ec\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f7c8647b7f3c6ba45347e162e29760ec\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\aad500baf419889c13b869396c74d30a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\aad500baf419889c13b869396c74d30a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f481b707014abf338ad3579065c578d9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\f481b707014abf338ad3579065c578d9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7b05d10885ab6d3424571519535ea853\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7b05d10885ab6d3424571519535ea853\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\1c03d8a1ff35cff65bf6121ec44ecd79\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\1c03d8a1ff35cff65bf6121ec44ecd79\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b6a9804b4ee5fa0765c70db4fd04cb1b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b6a9804b4ee5fa0765c70db4fd04cb1b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbaeef93e0fff01410a2dff5dfd5ab0b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dbaeef93e0fff01410a2dff5dfd5ab0b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\76d1c08544460574413d2077ef943df2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\76d1c08544460574413d2077ef943df2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1d41367c33334eb8ca0741a5dda9d30b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1d41367c33334eb8ca0741a5dda9d30b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ee6de4758f4fcf36a32d8b595da0afcf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ee6de4758f4fcf36a32d8b595da0afcf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a9ff0791c463732f6bace19936148500\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a9ff0791c463732f6bace19936148500\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\56d3d4ea8a49bddd260f3827ff1d102e\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\56d3d4ea8a49bddd260f3827ff1d102e\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\37722cf276acd7646b6bf8d600cc338b\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\aa4e1eeaae202e0dcb42a90e3f86f47a\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:24:17-71
+permission#com.codepath.apps.twitterfilter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:26:22-76
+uses-permission#com.codepath.apps.twitterfilter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:31:13-34:29
+intent-filter#com.codepath.apps.twitterfilter+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:33:27-58
+category#com.codepath.apps.twitterfilter
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32b272bf462f329d8a7e2395144098b2\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\575b11adcb657da457d4c2b9050901c3\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f9ab34e5db6e122d3fb6bf4b45d7da14\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f9ab34e5db6e122d3fb6bf4b45d7da14\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Burcu\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\f9ab34e5db6e122d3fb6bf4b45d7da14\AndroidManifest.xml:20:20-65

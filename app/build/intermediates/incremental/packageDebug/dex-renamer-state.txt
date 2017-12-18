@@ -1,0 +1,7 @@
+#Tue Nov 14 16:23:02 EET 2017
+base.0=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87e8d6fc53d753ddff1ee83ddafd696c8e8fa104
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d3749ac70f1eb096180ff769217159471d4663d7\\classes.dex
+base.1=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d3749ac70f1eb096180ff769217159471d4663d7
+file.0=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87e8d6fc53d753ddff1ee83ddafd696c8e8fa104\\classes.dex

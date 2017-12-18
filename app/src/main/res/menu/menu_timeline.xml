@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miEbv"
+        android:icon="@drawable/ebeveyn"
+        android:onClick="onEbvAction"
+        android:title="Ebeveyn"
+        app:showAsAction="always">
+
+    </item>
+    <item
+        android:id="@+id/miCompose"
+        android:icon="@drawable/vector_compose_fab"
+        app:showAsAction="always"
+        android:onClick="onComposeAction"
+        android:title="Compose">
+    </item>
+
+    <item
+        android:id="@+id/miProfile"
+        android:icon="@drawable/ic_vector_person"
+        android:title="Profile"
+        app:showAsAction="ifRoom"
+        android:onClick="onProfileView">
+    </item>
+
+    <item android:id="@+id/action_search"
+        android:orderInCategory="5"
+        android:title="Search"
+        android:icon="@drawable/ic_vector_search_stroke"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView" />
+
+
+</menu>

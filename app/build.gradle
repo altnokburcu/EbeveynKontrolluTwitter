@@ -1,0 +1,74 @@
+//noinspection GradleCompatible
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "26.0.2"
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE-FIREBASE.txt'
+        exclude 'META-INF/NOTICE'
+    }
+
+    defaultConfig {
+        applicationId "com.codepath.apps.twitterfilter"
+        minSdkVersion 17
+        targetSdkVersion 25
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    lintOptions {
+        lintConfig rootProject.file('gradle/lint.xml')
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+ext {
+    supportLibVersion = '25.3.1'  // variable that can be referenced to keep support libs consistent
+}
+
+repositories {
+    jcenter()
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+}
+
+def dbflow_version = "4.0.3"
+
+dependencies {
+    implementation 'com.google.firebase:firebase-database:11.0.4'
+    compile fileTree(dir: 'libs', include: '*.jar')
+    // Glide for remote image loading
+    // Android Async Http for sending async network requests
+    // DBFlow for simple persistence with an ORM
+    annotationProcessor "com.github.Raizlabs.DBFlow:dbflow-processor:${dbflow_version}"
+    compile "com.github.Raizlabs.DBFlow:dbflow-core:${dbflow_version}"
+    compile "com.github.Raizlabs.DBFlow:dbflow:${dbflow_version}"
+    compile "com.android.support:appcompat-v7:${supportLibVersion}"
+    compile "com.android.support:design:${supportLibVersion}"
+    compile "com.android.support:recyclerview-v7:${supportLibVersion}"
+
+    // If you want to use the GPU Filters
+    compile 'com.android.support:support-vector-drawable'
+
+    compile 'com.codepath.libraries:android-oauth-handler:1.2.5'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.github.bumptech.glide:glide:3.8.0'
+    compile 'com.loopj.android:android-async-http:1.4.9'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.android.support:recyclerview-v7:25.3.1'
+    compile 'org.parceler:parceler-api:1.1.6'
+    compile 'jp.wasabeef:glide-transformations:2.0.2'
+    compile 'jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1'
+    compile 'com.jakewharton:butterknife:8.6.0'
+    annotationProcessor 'org.parceler:parceler:1.1.6'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.6.0'
+}
+
+apply plugin: 'com.google.gms.google-services'
