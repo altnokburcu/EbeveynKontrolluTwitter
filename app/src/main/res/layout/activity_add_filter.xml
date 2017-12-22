@@ -12,7 +12,6 @@
         android:id="@+id/filtre"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
-        android:ems="10"
         android:hint="@string/filtregir"
         android:inputType="textPersonName" />
 
@@ -21,14 +20,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/ekle"
-        tools:layout_editor_absoluteX="8dp"
         android:background="@color/twitter_blue"
         android:textColor="@color/white"
-        tools:layout_editor_absoluteY="0dp" />
+        android:onClick="ekleOnClick" />
 
     <ListView
+        android:id="@+id/filtre_listesi"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/filtre_listesi"/>
+        android:layout_height="match_parent"   >
+
+    </ListView>
+
 
 </LinearLayout>

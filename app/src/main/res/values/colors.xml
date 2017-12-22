@@ -11,7 +11,7 @@
     <color name="twitter_blue">#ff1da1f2</color>
     <color name="twitter_blue_30">#4d1da1f2</color>
     <color name="twitter_blue_50">#801da1f2</color>
-    <color name="twitter_blue_fill_pressed">#ff1370a9</color>
+    <color name="twitter_blue_fill_pressed">#1370a9</color>
     <color name="inline_action">@color/medium_gray</color>
     <color name="inline_action_disabled">@color/medium_gray_30</color>
     <color name="inline_action_like">@color/medium_red</color>

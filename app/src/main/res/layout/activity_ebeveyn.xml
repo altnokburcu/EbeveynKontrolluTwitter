@@ -14,14 +14,15 @@
             android:id="@+id/username"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="textPersonName"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
             android:hint="Kullanıcı Adı"
-            android:layout_marginTop="20dp"
-            android:layout_centerHorizontal="true"/>
+            android:inputType="textPersonName" />
 
         <EditText
             android:id="@+id/password"
-            android:hint="Parola"
+            android:hint="@string/parola"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -33,9 +34,11 @@
             android:id="@+id/ebv_login"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Ebeveyn Girişi"
             android:layout_below="@+id/password"
+            android:layout_centerHorizontal="true"
             android:layout_marginTop="10dp"
-            android:layout_centerHorizontal="true"/>
+            android:background="@drawable/button_disabled"
+            android:backgroundTint="@color/twitter_blue_fill_pressed"
+            android:text="Ebeveyn Girişi" />
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>

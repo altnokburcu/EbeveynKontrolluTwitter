@@ -19,9 +19,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import jp.wasabeef.glide.transformations.RoundedCornersTransformation;
 
-/**
- * Created by tanvigupta on 7/6/17.
- */
+
 
 public class UserAdapter extends RecyclerView.Adapter<UserAdapter.ViewHolder> {
 

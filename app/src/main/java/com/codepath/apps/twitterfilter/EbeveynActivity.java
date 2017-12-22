@@ -64,6 +64,7 @@ public class EbeveynActivity extends AppCompatActivity {
                             DbHelper dbHelper = new DbHelper(EbeveynActivity.this);
                             dbHelper.kullaniciEkle(username.getText().toString());
                             startActivity(a);
+                            finish();
 
                         }
                         else{

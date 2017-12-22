@@ -11,7 +11,7 @@ import org.json.JSONObject;
 import org.parceler.Parcel;
 
 /**
- * Created by tanvigupta on 6/26/17.
+ * Created by burcu
  */
 
 @Table(database = MyDatabase.class)
