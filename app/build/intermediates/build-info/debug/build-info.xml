@@ -7,22 +7,22 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1519326532755"
+    timestamp="1519327040328"
     token="-5209624050797300344"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2021" />
+        duration="2092" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="74" />
     <task
         name="verifier"
-        duration="3" />
+        duration="2" />
 
     <artifact
         location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -90,7 +90,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1519326532755"
+        timestamp="1519327040328"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_8.apk"

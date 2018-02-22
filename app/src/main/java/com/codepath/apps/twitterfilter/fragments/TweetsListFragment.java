@@ -62,9 +62,9 @@ public class TweetsListFragment extends Fragment {
     ConnectivityManager cm;
     NetworkInfo activeNetwork;
     boolean isConnected;
-    private ArrayList<FilterModel> filterList ;
-    String filterwords[]= null;
-    String kullanici;
+    private List<FilterModel> filterList ;
+    private String kullanici;
+    private FirebaseDatabase database = FirebaseDatabase.getInstance();
 
     // inflation happens inside onCreateView
     @Nullable
@@ -249,13 +249,13 @@ public class TweetsListFragment extends Fragment {
     public boolean filter(String tweetContent){
         boolean status = false;
         String[] parca = tweetContent.split(" ");
-        Log.d("filtre metodu", filterList.toString());
+        //Log.d("filtre metodu", filterList.toString());
 
-        if(!(filterwords ==null)){
+        if(!(filterList ==null)){
             for( int j=0; j<parca.length; j++){
                 //dışarıdan kelime girişi yapılacak,yapılan kelimelere göre filtreleme yapılacak
-                for(int a=0; a<filterwords.length; a++){
-                    if(parca[j].equals(filterwords[a])){
+                for(int a=0; a<filterList.size(); a++){
+                    if(parca[j].equals(filterList.get(a).getFilter())){
                         status=true;
                     }
 
@@ -266,23 +266,15 @@ public class TweetsListFragment extends Fragment {
     }
 
     public void getFilterFromFirebase(){
-        final FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference myRef = database.getReference("users").child(kullanici).child("filtreler");
         myRef.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                filterwords = new String[(int) dataSnapshot.getChildrenCount()];
                 filterList.clear();
-                Log.d("count",String.valueOf(dataSnapshot.getChildrenCount()));
-                int i=0;
-                //db_users = new String[Integer.parseInt(dataSnapshot.getChildrenCount()+"")];
                 Log.d("Veriler",dataSnapshot.getChildrenCount()+"");
                 // This method is called once with the initial value and again
                 // whenever data at this location is updated.
                 for(DataSnapshot snap : dataSnapshot.getChildren()){
-                    /*filterwords[i] = snap.getValue().toString();
-                    Log.d("veriler from fire",filterwords[i]);
-                    i++;*/
                     filterList.add(snap.getValue(FilterModel.class));
                 }
             }
