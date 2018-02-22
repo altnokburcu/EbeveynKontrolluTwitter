@@ -20,7 +20,13 @@ import com.codepath.apps.twitterfilter.MyDividerItemDecoration;
 import com.codepath.apps.twitterfilter.R;
 import com.codepath.apps.twitterfilter.TweetAdapter;
 import com.codepath.apps.twitterfilter.models.DbHelper;
+import com.codepath.apps.twitterfilter.models.FilterModel;
 import com.codepath.apps.twitterfilter.models.Tweet;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -56,8 +62,9 @@ public class TweetsListFragment extends Fragment {
     ConnectivityManager cm;
     NetworkInfo activeNetwork;
     boolean isConnected;
-
+    private ArrayList<FilterModel> filterList ;
     String filterwords[]= null;
+    String kullanici;
 
     // inflation happens inside onCreateView
     @Nullable
@@ -66,9 +73,13 @@ public class TweetsListFragment extends Fragment {
         // inflate the view
         View v = inflater.inflate(R.layout.fragments_tweets_list, container, false);
         unbinder = ButterKnife.bind(this, v);
-
+        filterList = new ArrayList<>();
         DbHelper db = new DbHelper(v.getContext());
-        filterwords = db.getVt();
+        kullanici = db.kullaniciCek();
+        if(kullanici!=null){
+            getFilterFromFirebase();
+        }
+      //  Log.d("tweet list filter",filterwords.toString());
         oldest = 0;
 
         // Setup refresh listener which triggers new data loading
@@ -238,6 +249,8 @@ public class TweetsListFragment extends Fragment {
     public boolean filter(String tweetContent){
         boolean status = false;
         String[] parca = tweetContent.split(" ");
+        Log.d("filtre metodu", filterList.toString());
+
         if(!(filterwords ==null)){
             for( int j=0; j<parca.length; j++){
                 //dışarıdan kelime girişi yapılacak,yapılan kelimelere göre filtreleme yapılacak
@@ -250,5 +263,36 @@ public class TweetsListFragment extends Fragment {
             }
         }
         return status;
+    }
+
+    public void getFilterFromFirebase(){
+        final FirebaseDatabase database = FirebaseDatabase.getInstance();
+        DatabaseReference myRef = database.getReference("users").child(kullanici).child("filtreler");
+        myRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                filterwords = new String[(int) dataSnapshot.getChildrenCount()];
+                filterList.clear();
+                Log.d("count",String.valueOf(dataSnapshot.getChildrenCount()));
+                int i=0;
+                //db_users = new String[Integer.parseInt(dataSnapshot.getChildrenCount()+"")];
+                Log.d("Veriler",dataSnapshot.getChildrenCount()+"");
+                // This method is called once with the initial value and again
+                // whenever data at this location is updated.
+                for(DataSnapshot snap : dataSnapshot.getChildren()){
+                    /*filterwords[i] = snap.getValue().toString();
+                    Log.d("veriler from fire",filterwords[i]);
+                    i++;*/
+                    filterList.add(snap.getValue(FilterModel.class));
+                }
+            }
+
+            @Override
+            public void onCancelled(DatabaseError error) {
+                // Failed to read value
+                Log.w("", "Failed to read value.", error.toException());
+            }
+
+        });
     }
 }

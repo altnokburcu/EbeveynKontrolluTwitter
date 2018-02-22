@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
+            "outputFile": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Burcu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\f7c8647b7f3c6ba45347e162e29760ec\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/values-my-rMM/values-my-rMM.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

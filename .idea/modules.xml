@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TwitterApp-master.iml" filepath="$PROJECT_DIR$/TwitterApp-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitterFilter.iml" filepath="$PROJECT_DIR$/twitterFilter.iml" />
     </modules>
   </component>
 </project>

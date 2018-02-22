@@ -1,4 +1,4 @@
-#Fri Dec 22 20:58:19 EET 2017
+#Wed Feb 21 18:13:59 EET 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.4=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.3=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-base.2=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
-base.1=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.0=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+base.5=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/16
+base.4=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/13
+base.3=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/15
+base.2=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/12
+base.1=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/14
+base.0=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/11
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex

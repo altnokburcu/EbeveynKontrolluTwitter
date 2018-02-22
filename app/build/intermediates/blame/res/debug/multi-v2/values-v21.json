@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Burcu\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\56d3d4ea8a49bddd260f3827ff1d102e\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "248"
-                    },
-                    "to": {
-                        "startLines": "296",
-                        "startColumns": "4",
-                        "startOffsets": "21379",
-                        "endLines": "298",
-                        "endColumns": "12",
-                        "endOffsets": "21572"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Burcu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\f7c8647b7f3c6ba45347e162e29760ec\\res\\values-v21\\values-v21.xml",
+                    "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,25,26,28,30,31,32,33,34,36,38,40,42,44,46,47,52,54,56,57,58,60,62,63,64,65,66,67,111,114,158,161,164,166,168,170,173,175,178,179,180,183,184,185,186,187,188,191,192,194,196,198,200,204,206,207,208,209,211,215,217,219,220,221,222,223,225,226,227,237,238,239,251,263,264,265,268,271,272,275,276,279,282",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "source": "/home/burcu/StudioProjects/twitterFilter/app/src/main/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -58,6 +39,25 @@
                         "endLines": "14",
                         "endColumns": "12",
                         "endOffsets": "761"
+                    }
+                },
+                {
+                    "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "248"
+                    },
+                    "to": {
+                        "startLines": "296",
+                        "startColumns": "4",
+                        "startOffsets": "21379",
+                        "endLines": "298",
+                        "endColumns": "12",
+                        "endOffsets": "21572"
                     }
                 }
             ]

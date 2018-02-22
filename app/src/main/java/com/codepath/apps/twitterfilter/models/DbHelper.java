@@ -72,6 +72,9 @@ public class DbHelper extends SQLiteOpenHelper {
             return false;
         }
     }
+   /* public String kullaniciCek(){
+
+    }*/
 
 
     public String[] getVt(){
@@ -93,36 +96,15 @@ public class DbHelper extends SQLiteOpenHelper {
     }
 
 
-    public String[] getFirebase(int count){
+    public String kullaniciCek(){
+
         SQLiteDatabase db = getReadableDatabase();
         Cursor cursor = db.rawQuery("select user_name from "+TABLE_USERS,null);
         cursor.moveToFirst();
-        FirebaseDatabase database = FirebaseDatabase.getInstance();
-        DatabaseReference myRef = database.getReference("users").child(cursor.getString(
-                cursor.getColumnIndex("user_name"))).child("filtreler");
-        db_users = new String[count];
-        Log.d("count",String.valueOf(count));
-        myRef.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                int i=0;
-                //db_users = new String[Integer.parseInt(dataSnapshot.getChildrenCount()+"")];
-                Log.d("Veriler",dataSnapshot.getChildrenCount()+"");
-                // This method is called once with the initial value and again
-                // whenever data at this location is updated.
-                for(DataSnapshot snap : dataSnapshot.getChildren()){
-                    db_users[i] = snap.getValue().toString();
-                    Log.d("veriler",db_users[i]);
-                    i++;
-                }
-            }
-
-            @Override
-            public void onCancelled(DatabaseError error) {
-                // Failed to read value
-                Log.w("", "Failed to read value.", error.toException());
-            }
-            });
-        return db_users;
+        String kullanici = cursor.getString(cursor.getColumnIndex("user_name"));
+        if(kullanici==""){
+            return null;
+        }
+        return kullanici;
     }
 }

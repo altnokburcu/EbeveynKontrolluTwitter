@@ -1,4 +1,4 @@
-#Fri Dec 22 16:33:29 EET 2017
-base.0=C\:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Thu Feb 22 20:27:23 EET 2018
+base.0=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

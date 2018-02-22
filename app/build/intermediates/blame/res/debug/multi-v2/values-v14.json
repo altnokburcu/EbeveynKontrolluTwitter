@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Burcu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\f7c8647b7f3c6ba45347e162e29760ec\\res\\values-v14\\values-v14.xml",
+                    "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/values-v14/values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "/home/burcu/StudioProjects/twitterFilter/app/src/main/res/values-v14/styles.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "4",

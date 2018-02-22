@@ -53,7 +53,7 @@ public class AddFilterActivity extends AppCompatActivity {
 
     private void listele(String username){
 
-        mDatabase.addValueEventListener(new ValueEventListener() {
+        mDatabase.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 filterList.clear();

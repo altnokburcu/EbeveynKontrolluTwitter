@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Burcu\\Desktop\\Android Projects\\TwitterApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+            "outputFile": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Burcu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\f9ab34e5db6e122d3fb6bf4b45d7da14\\res\\values-mr\\values.xml",
+                    "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/35ea157b80ec11995d6580b5d927706d/res/values-mr/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
