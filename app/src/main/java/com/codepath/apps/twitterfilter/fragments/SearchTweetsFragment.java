@@ -15,9 +15,6 @@ import org.json.JSONObject;
 
 import cz.msebera.android.httpclient.Header;
 
-/**
- * Created by tanvigupta on 7/5/17.
- */
 
 public class SearchTweetsFragment extends TweetsListFragment {
 

@@ -1,10 +1,10 @@
 #Internal package file, do not edit.
-#Wed Feb 21 18:13:59 EET 2018
+#Mon Feb 26 21:07:33 EET 2018
 4.path=lib/x86/libgpuimage-library.so
 8.set=DEX
 6.path=classes.dex
 0.baseType=DIRECTORY
-10.path=lib/mips/libgpuimage-library.so
+10.path=classes.dex
 5.baseType=DIRECTORY
 1.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/mergeJniLibs/debug/0
 8.path=classes.dex
@@ -13,10 +13,10 @@
 4.set=NATIVE_RESOURCE
 5.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/mergeJniLibs/debug/0
 7.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/13
-11.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/14
+11.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/mergeJniLibs/debug/0
 9.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/12
 1.baseType=DIRECTORY
-11.set=DEX
+11.set=NATIVE_RESOURCE
 0.set=NATIVE_RESOURCE
 6.baseType=DIRECTORY
 7.set=DEX
@@ -26,11 +26,11 @@
 1.path=lib/arm64-v8a/libgpuimage-library.so
 7.baseType=DIRECTORY
 3.path=lib/armeabi/libgpuimage-library.so
-10.set=NATIVE_RESOURCE
+10.set=DEX
 5.path=lib/x86_64/libgpuimage-library.so
 0.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/mergeJniLibs/debug/0
 7.path=classes.dex
-11.path=classes.dex
+11.path=lib/mips/libgpuimage-library.so
 9.path=classes.dex
 6.set=DEX
 2.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/mergeJniLibs/debug/0
@@ -38,7 +38,7 @@
 4.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/mergeJniLibs/debug/0
 3.baseType=DIRECTORY
 6.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/16
-10.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/mergeJniLibs/debug/0
+10.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/14
 8.base=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/15
 2.set=NATIVE_RESOURCE
 8.baseType=DIRECTORY

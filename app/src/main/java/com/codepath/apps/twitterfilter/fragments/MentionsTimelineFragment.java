@@ -18,10 +18,6 @@ import java.util.List;
 
 import cz.msebera.android.httpclient.Header;
 
-/**
- * Created by tanvigupta on 7/3/17.
- */
-
 public class MentionsTimelineFragment extends TweetsListFragment {
 
     TwitterClient client;

@@ -7,9 +7,6 @@ import android.support.v4.app.FragmentPagerAdapter;
 import android.util.SparseArray;
 import android.view.ViewGroup;
 
-/**
- * Created by tanvigupta on 7/3/17.
- */
 
 public class TweetsPagerAdapter extends FragmentPagerAdapter {
 

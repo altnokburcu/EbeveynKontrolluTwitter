@@ -14,9 +14,6 @@ import org.json.JSONObject;
 
 import cz.msebera.android.httpclient.Header;
 
-/**
- * Created by tanvigupta on 7/6/17.
- */
 
 public class FollowersFragment extends UsersListFragment {
 

@@ -26,9 +26,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-/**
- * Created by tanvigupta on 7/6/17.
- */
 
 public class UsersListFragment extends Fragment {
 

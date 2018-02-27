@@ -98,13 +98,16 @@ public class DbHelper extends SQLiteOpenHelper {
 
     public String kullaniciCek(){
 
-        SQLiteDatabase db = getReadableDatabase();
-        Cursor cursor = db.rawQuery("select user_name from "+TABLE_USERS,null);
-        cursor.moveToFirst();
-        String kullanici = cursor.getString(cursor.getColumnIndex("user_name"));
-        if(kullanici==""){
+        try{
+
+            SQLiteDatabase db = getReadableDatabase();
+            Cursor cursor = db.rawQuery("select user_name from "+TABLE_USERS,null);
+            cursor.moveToFirst();
+            String kullanici = cursor.getString(cursor.getColumnIndex("user_name"));
+            return kullanici;
+        }
+        catch (Exception e) {
             return null;
         }
-        return kullanici;
     }
 }
