@@ -20,24 +20,24 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_in_bottom.xml.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_text_cursor_material.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -52,16 +52,20 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/anim_design_bottom_sheet_slide_out.xml.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/anim/design_bottom_sheet_slide_out.xml"
-    },
-    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_clear_material.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -74,6 +78,14 @@
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-v21_avd_hide_password.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
@@ -92,12 +104,32 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_item_background_holo_dark.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -136,12 +168,12 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_notification_action.xml.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_notification_action.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/notification_action.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_navigation_empty_icon.xml.flat",
@@ -164,20 +196,28 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/animator-v21_design_appbar_state_list_animator.xml.flat",
@@ -190,6 +230,10 @@
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -220,6 +264,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable/abc_ic_menu_overflow_material.xml"
     },
@@ -244,12 +292,12 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_abc_tint_switch_track.xml.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/color/abc_tint_switch_track.xml"
-    },
-    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_abc_tint_switch_track.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/color/abc_tint_switch_track.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
@@ -276,40 +324,40 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -368,12 +416,12 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-v21_abc_btn_colored_material.xml.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -384,16 +432,20 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/layout/design_navigation_menu_item.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_abc_tint_seek_thumb.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_radio_material.xml.flat",
@@ -424,12 +476,12 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_up_container.xml.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_icon.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
@@ -456,6 +508,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/drawable-v21/avd_show_password.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
@@ -480,6 +536,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable/abc_btn_check_material.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
@@ -492,12 +552,20 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/color-v23/design_tint_password_toggle.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_holo_light.xml.flat",
@@ -512,12 +580,24 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_layout.xml.flat",
@@ -532,12 +612,12 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout-v21/notification_template_icon_group.xml"
-    },
-    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -600,16 +680,24 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -668,6 +756,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_switch_thumb_material_light.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/color/switch_thumb_material_light.xml"
     },
@@ -702,6 +794,14 @@
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout-v11_notification_media_action.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_seekbar_track_material.xml.flat",
@@ -792,6 +892,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
@@ -808,6 +912,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
@@ -816,12 +924,20 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/layout/design_navigation_menu.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_abc_dialog_title_material.xml.flat",
@@ -1072,6 +1188,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -1096,6 +1216,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -1116,12 +1240,20 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_design_fab_background.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-v21_notification_action_background.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/layout_abc_action_menu_item_layout.xml.flat",
@@ -1136,6 +1268,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/color_abc_search_url_text.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/color/abc_search_url_text.xml"
     },
@@ -1146,6 +1282,10 @@
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1186,6 +1326,10 @@
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -1234,6 +1378,10 @@
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_design_ic_visibility.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1320,6 +1468,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
     },
@@ -1352,6 +1504,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/drawable-v21/design_password_eye.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
@@ -1370,6 +1526,10 @@
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1464,6 +1624,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/res/anim/design_snackbar_out.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
@@ -1490,6 +1654,10 @@
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-v21_abc_edit_text_material.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -1650,6 +1818,10 @@
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/ed5ed0043b49eab33c340542229324da/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",

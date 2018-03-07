@@ -8,13 +8,29 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".LoginActivity" >
 
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_above="@id/username"
+        android:layout_gravity="center"
+        android:maxHeight="10dp"
+        android:maxWidth="10dp"
+        android:src="@drawable/parentlogo" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_disabled"
         android:layout_margin="20dp"
         android:onClick="loginToRest"
         android:text="@string/login_label"
+        android:textColor="@color/white"
         android:textStyle="normal" />
-
+    </LinearLayout>
 </RelativeLayout>

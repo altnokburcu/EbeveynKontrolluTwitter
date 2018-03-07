@@ -3,37 +3,37 @@
     abi="x86"
     api-level="27"
     build-mode="FULL"
-    density="420dpi"
+    density="xhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1519742614464"
+    timestamp="1520338236753"
     token="-5209624050797300344"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2467" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="949" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
-    <artifact
-        location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
     <artifact
         location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
+        location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
         location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
         location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
@@ -62,19 +62,19 @@
 
     <build
         build-mode="FULL"
-        timestamp="1519742614464"
+        timestamp="1520338236753"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
         <artifact
             location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/split-apk/debug/slices/slice_4.apk"

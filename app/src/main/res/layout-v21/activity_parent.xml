@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.codepath.apps.twitterfilter.ParentActivity">
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerVertical="true">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_above="@id/username"
+        android:layout_gravity="center"
+        android:maxHeight="10dp"
+        android:maxWidth="10dp"
+        android:src="@drawable/parentlogo" />
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:hint="Kullanıcı Adı"
+        android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/username"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:hint="@string/parola"
+            android:inputType="textPassword" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/password"
+            android:padding="5dp"
+            android:layout_centerHorizontal="true"
+            android:weightSum="2">
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/ebv_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/button_disabled"
+                android:backgroundTint="@color/twitter_blue_fill_pressed"
+                android:text="Ebeveyn Girişi" />
+
+            <Button
+                android:layout_weight="1"
+                android:layout_marginLeft="5dp"
+                android:textColor="@color/white"
+                android:id="@+id/ebv_register"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_disabled"
+                android:backgroundTint="@color/twitter_blue_fill_pressed"
+                android:text="Kayıt Ol"
+                android:onClick="kayitOl"/>
+
+        </LinearLayout>
+
+        </LinearLayout>
+
+
+</RelativeLayout>

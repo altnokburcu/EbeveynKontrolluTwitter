@@ -43,6 +43,7 @@ def dbflow_version = "4.0.3"
 
 dependencies {
     implementation 'com.google.firebase:firebase-database:11.0.4'
+    implementation 'com.google.firebase:firebase-auth:11.0.4'
     compile fileTree(dir: 'libs', include: '*.jar')
     // Glide for remote image loading
     // Android Async Http for sending async network requests

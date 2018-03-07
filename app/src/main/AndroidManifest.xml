@@ -45,7 +45,8 @@
         <activity android:name=".FollowersActivity" />
         <activity android:name=".FriendsActivity" />
         <activity android:name=".AddFilterActivity" />
-        <activity android:name=".EbeveynActivity"></activity>
+        <activity android:name=".ParentActivity" />
+        <activity android:name=".RegisterActivity"></activity>
     </application>
 
 </manifest>

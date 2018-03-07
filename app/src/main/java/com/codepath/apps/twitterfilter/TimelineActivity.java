@@ -88,7 +88,7 @@ public class TimelineActivity extends AppCompatActivity {
     }
 
     public void onEbvAction(MenuItem miEbv) {
-        Intent intent = new Intent(this, EbeveynActivity.class);
+        Intent intent = new Intent(this, ParentActivity.class);
         startActivity(intent);
     }
 

@@ -64,7 +64,8 @@
         <activity android:name="com.codepath.apps.twitterfilter.FollowersActivity" />
         <activity android:name="com.codepath.apps.twitterfilter.FriendsActivity" />
         <activity android:name="com.codepath.apps.twitterfilter.AddFilterActivity" />
-        <activity android:name="com.codepath.apps.twitterfilter.EbeveynActivity" />
+        <activity android:name="com.codepath.apps.twitterfilter.ParentActivity" />
+        <activity android:name="com.codepath.apps.twitterfilter.RegisterActivity" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
@@ -125,6 +126,11 @@
             android:authorities="com.codepath.apps.twitterfilter.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <meta-data
             android:name="com.google.android.gms.version"
