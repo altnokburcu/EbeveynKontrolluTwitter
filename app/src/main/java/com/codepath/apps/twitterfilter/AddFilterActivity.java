@@ -49,6 +49,7 @@ public class AddFilterActivity extends AppCompatActivity {
         filterAdapter = new FilterAdapter(this,filterList,username);
         liste.setAdapter(filterAdapter);
         listele(username);
+
     }
 
     private void listele(String username){
