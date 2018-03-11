@@ -1,4 +1,4 @@
-#Thu Mar 01 18:16:38 EET 2018
+#Sun Mar 11 22:11:48 EET 2018
 base.0=/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -11,10 +11,14 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.codepath.apps.twitterfilter.models.FirebaseUserModel;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 import static android.view.View.*;
 
@@ -41,11 +45,11 @@ public class RegisterActivity extends AppCompatActivity {
 
 
     public void kayitTamamla(View view) {
-        String mail = email.getText().toString();
-        String pass = password.getText().toString();
+        final String mail = email.getText().toString();
+        final String pass = password.getText().toString();
 
-        Log.d("edittext",password.getText().toString());
-        Log.d("edittext2",email.getText().toString());
+        Log.d("edittext", password.getText().toString());
+        Log.d("edittext2", email.getText().toString());
         if (TextUtils.isEmpty(mail)) {
             Toast.makeText(getApplicationContext(), "Email adresinizi giriniz!", Toast.LENGTH_SHORT).show();
             return;
@@ -67,7 +71,7 @@ public class RegisterActivity extends AppCompatActivity {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         Toast.makeText(RegisterActivity.this, "Hesabınız oluşturuldu" + task.isSuccessful(), Toast.LENGTH_SHORT).show();
-
+                        writeDatabase(mail, pass);
                         if (!task.isSuccessful()) {
                             Toast.makeText(RegisterActivity.this, "Hesabınız oluşturulamadı" + task.getException(),
                                     Toast.LENGTH_SHORT).show();
@@ -77,5 +81,16 @@ public class RegisterActivity extends AppCompatActivity {
                         }
                     }
                 });
-        }
+
+    }
+
+    private DatabaseReference mDatabase;
+    private FirebaseUserModel firebaseUserModel;
+
+    private void writeDatabase(String mail, String pass) {
+        // Write a message to the database
+        mDatabase = FirebaseDatabase.getInstance().getReference();
+        firebaseUserModel = new FirebaseUserModel(mail, pass);
+        mDatabase.child("users").child(auth.getCurrentUser().getUid()).setValue(firebaseUserModel);
+    }
 }

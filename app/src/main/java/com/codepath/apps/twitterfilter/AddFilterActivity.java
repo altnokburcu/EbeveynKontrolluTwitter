@@ -15,6 +15,7 @@ import android.widget.Toast;
 import com.codepath.apps.twitterfilter.models.DbHelper;
 import com.codepath.apps.twitterfilter.models.FilterAdapter;
 import com.codepath.apps.twitterfilter.models.FilterModel;
+import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -33,6 +34,7 @@ public class AddFilterActivity extends AppCompatActivity {
     DbHelper vt = new DbHelper(this);
     private DatabaseReference mDatabase;
     FilterAdapter filterAdapter;
+    private FirebaseAuth auth;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,8 +42,8 @@ public class AddFilterActivity extends AppCompatActivity {
 
         Intent intent= getIntent();
         username = intent.getStringExtra("username");
-
-        mDatabase = FirebaseDatabase.getInstance().getReference("users/"+username+"/filtreler");
+        auth = FirebaseAuth.getInstance();
+        mDatabase = FirebaseDatabase.getInstance().getReference("users/"+auth.getCurrentUser().getUid()+"/filtreler");
 
         liste =(ListView) findViewById(R.id.filtre_listesi);
         filtre = (EditText) findViewById(R.id.filtre);
