@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-52:12
+ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-53:12
 MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] /home/burcu/.gradle/caches/transforms-1/files-1.1/dbflow-4.0.3.aar/285749497cb999338d5eccbb449fdb5a/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/AndroidManifest.xml:17:1-31:12
 MERGED from [com.codepath.libraries:android-oauth-handler:1.2.5] /home/burcu/.gradle/caches/transforms-1/files-1.1/android-oauth-handler-1.2.5.aar/380be772bc96f586bc1f1aff11475bfe/AndroidManifest.xml:2:1-11:12
@@ -33,9 +33,9 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /home/burcu/.gradle/cac
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/3d278acd269519cff8d18b519affe3a6/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8b77543b7860f52fd901aef0ad3b2c1c/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/9d3926265b520c21e7a2923247ffb964/AndroidManifest.xml:17:1-31:12
-INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:2:1-53:12
 	package
 		ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:3:5-46
 		INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml
@@ -79,7 +79,7 @@ MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/burcu/.gradle/caches
 	android:name
 		ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:12:5-50:19
+ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:12:5-51:19
 MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] /home/burcu/.gradle/caches/transforms-1/files-1.1/dbflow-4.0.3.aar/285749497cb999338d5eccbb449fdb5a/AndroidManifest.xml:11:5-20
 MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] /home/burcu/.gradle/caches/transforms-1/files-1.1/dbflow-4.0.3.aar/285749497cb999338d5eccbb449fdb5a/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/bdc6ba16e743129d541747511b47c976/AndroidManifest.xml:29:5-20
@@ -211,9 +211,13 @@ ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest
 	android:name
 		ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:48:19-49
 activity#com.codepath.apps.twitterfilter.RegisterActivity
-ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:49:9-63
+ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:49:9-54
 	android:name
 		ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:49:19-51
+activity#com.codepath.apps.twitterfilter.ChildActivity
+ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:50:9-60
+	android:name
+		ADDED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml:50:19-48
 uses-sdk
 INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/burcu/StudioProjects/twitterFilter/app/src/main/AndroidManifest.xml

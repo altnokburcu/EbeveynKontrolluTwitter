@@ -19,9 +19,11 @@ import com.codepath.apps.twitterfilter.EndlessRecyclerViewScrollListener;
 import com.codepath.apps.twitterfilter.MyDividerItemDecoration;
 import com.codepath.apps.twitterfilter.R;
 import com.codepath.apps.twitterfilter.TweetAdapter;
+import com.codepath.apps.twitterfilter.models.ChildModel;
 import com.codepath.apps.twitterfilter.models.DbHelper;
 import com.codepath.apps.twitterfilter.models.FilterModel;
 import com.codepath.apps.twitterfilter.models.Tweet;
+import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -62,9 +64,12 @@ public class TweetsListFragment extends Fragment {
     ConnectivityManager cm;
     NetworkInfo activeNetwork;
     boolean isConnected;
+    private ChildModel childModel;
     private List<FilterModel> filterList ;
     private String kullanici;
     private FirebaseDatabase database = FirebaseDatabase.getInstance();
+    private FirebaseAuth auth = FirebaseAuth.getInstance();
+    private Context context;
 
     // inflation happens inside onCreateView
     @Nullable
@@ -73,13 +78,10 @@ public class TweetsListFragment extends Fragment {
         // inflate the view
         View v = inflater.inflate(R.layout.fragments_tweets_list, container, false);
         unbinder = ButterKnife.bind(this, v);
+        context = v.getContext();
         filterList = new ArrayList<>();
-        DbHelper db = new DbHelper(v.getContext());
-        kullanici = db.kullaniciCek();
-        if(kullanici!=null){
-            getFilterFromFirebase();
-        }
-      //  Log.d("tweet list filter",filterwords.toString());
+        getList();
+
         oldest = 0;
 
         // Setup refresh listener which triggers new data loading
@@ -198,6 +200,7 @@ public class TweetsListFragment extends Fragment {
 
     public void refreshItems(JSONArray response, String location) {
         try {
+            getList();
             // clear old items before appending new ones
             tweetAdapter.clear();
 
@@ -246,6 +249,14 @@ public class TweetsListFragment extends Fragment {
         }
     }
 
+    public void getList(){
+        DbHelper db = new DbHelper(context);
+        kullanici = db.kullaniciCek();
+        if(kullanici!=null){
+            Log.d("kullanici",kullanici);
+            isChild(kullanici);
+        }
+    }
     public boolean filter(String tweetContent){
         boolean status = false;
         String[] parca = tweetContent.split(" ");
@@ -266,25 +277,53 @@ public class TweetsListFragment extends Fragment {
     }
 
     public void getFilterFromFirebase(){
-        DatabaseReference myRef = database.getReference("users").child(kullanici).child("filtreler");
-        myRef.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                filterList.clear();
-                Log.d("Veriler",dataSnapshot.getChildrenCount()+"");
-                // This method is called once with the initial value and again
-                // whenever data at this location is updated.
-                for(DataSnapshot snap : dataSnapshot.getChildren()){
-                    filterList.add(snap.getValue(FilterModel.class));
+
+            DatabaseReference myRef = database.getReference("users").child(auth.getCurrentUser().getUid()).child("filtreler");
+            myRef.addValueEventListener(new ValueEventListener() {
+                @Override
+                public void onDataChange(DataSnapshot dataSnapshot) {
+                    filterList.clear();
+                    Log.d("Veriler", dataSnapshot.getChildrenCount() + "");
+                    // This method is called once with the initial value and again
+                    // whenever data at this location is updated.
+                    for (DataSnapshot snap : dataSnapshot.getChildren()) {
+                        filterList.add(snap.getValue(FilterModel.class));
+                    }
+
                 }
-            }
 
-            @Override
-            public void onCancelled(DatabaseError error) {
-                // Failed to read value
-                Log.w("", "Failed to read value.", error.toException());
-            }
+                @Override
+                public void onCancelled(DatabaseError error) {
+                    // Failed to read value
+                    Log.w("", "Failed to read value.", error.toException());
+                }
 
-        });
+            });
+
+    }
+
+    public void isChild(final String name){
+        if(!(auth.getCurrentUser() == null)){
+            DatabaseReference myRef = database.getReference()
+                    .child("users").child(auth.getCurrentUser().getUid()).child("childs");
+            Log.d("getuid",auth.getCurrentUser().getUid());
+            myRef.addListenerForSingleValueEvent(new ValueEventListener() {
+                @Override
+                public void onDataChange(DataSnapshot dataSnapshot) {
+                    for (DataSnapshot snap : dataSnapshot.getChildren()){
+                        childModel = snap.getValue(ChildModel.class);
+                        if (childModel.getName().equals(name)){
+                            Log.d("cocukModel",childModel.getName());
+                            getFilterFromFirebase();
+                        }
+                    }
+                }
+
+                @Override
+                public void onCancelled(DatabaseError databaseError) {
+
+                }
+            });
+        }
     }
 }

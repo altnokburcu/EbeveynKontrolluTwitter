@@ -30,15 +30,15 @@ public class FilterAdapter extends BaseAdapter {
     private DatabaseReference mDatabase;
     private LayoutInflater mInflater;
     private List<FilterModel> FilterList;
-    private String username;
+    private String userId;
 
-    public FilterAdapter(Activity activity, List<FilterModel> filter,String username) {
+    public FilterAdapter(Activity activity, List<FilterModel> filter,String userId) {
         //XML'i alıp View'a çevirecek inflater'ı örnekleyelim
         mInflater = (LayoutInflater) activity.getSystemService(
                 Context.LAYOUT_INFLATER_SERVICE);
         //gösterilecek listeyi de alalım
         FilterList = filter;
-        this.username = username;
+        this.userId = userId;
     }
 
     @Override
@@ -81,7 +81,7 @@ public class FilterAdapter extends BaseAdapter {
     }
     FilterModel filterM;
     private void deleteFilterFirebase(final FilterModel filtre){
-        mDatabase = FirebaseDatabase.getInstance().getReference("users").child(username).child("filtreler");
+        mDatabase = FirebaseDatabase.getInstance().getReference("users").child(userId).child("filtreler");
         mDatabase.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {

@@ -46,7 +46,8 @@
         <activity android:name=".FriendsActivity" />
         <activity android:name=".AddFilterActivity" />
         <activity android:name=".ParentActivity" />
-        <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".ChildActivity"></activity>
     </application>
 
 </manifest>

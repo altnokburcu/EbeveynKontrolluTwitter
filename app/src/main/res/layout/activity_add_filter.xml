@@ -1,16 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
-    android:orientation="vertical"
-    tools:context="com.codepath.apps.twitterfilter.AddFilterActivity">
 
+    tools:context="com.codepath.apps.twitterfilter.AddFilterActivity">
+<RelativeLayout
+    android:padding="10dp"
+    android:id="@+id/userHeaderLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+
+        android:id="@+id/usermail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hoşgeldiniz"
+        android:layout_centerVertical="true"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:id="@+id/btn_cikis"
+        android:text="Çıkış Yap"
+        android:layout_marginLeft="6dp"
+        android:background="@color/twitter_blue"
+        android:textColor="@color/white"
+        />
+ <Button
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:id="@+id/btn_child_control"
+     android:text="Çocuk Kontrol"
+     android:background="@color/twitter_blue"
+     android:textColor="@color/white"
+     android:layout_toStartOf="@+id/btn_cikis"
+     android:onClick="childControl"
+     />
+</RelativeLayout>
+    <LinearLayout
+        android:layout_below="@+id/userHeaderLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
     <EditText
         android:id="@+id/filtre"
-        android:layout_width="368dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/filtregir"
         android:inputType="textPersonName" />
@@ -30,6 +68,6 @@
         android:layout_height="match_parent"   >
 
     </ListView>
-
-
 </LinearLayout>
+
+</RelativeLayout>

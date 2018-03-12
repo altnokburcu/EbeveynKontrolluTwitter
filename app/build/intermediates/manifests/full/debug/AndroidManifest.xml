@@ -66,6 +66,7 @@
         <activity android:name="com.codepath.apps.twitterfilter.AddFilterActivity" />
         <activity android:name="com.codepath.apps.twitterfilter.ParentActivity" />
         <activity android:name="com.codepath.apps.twitterfilter.RegisterActivity" />
+        <activity android:name="com.codepath.apps.twitterfilter.ChildActivity" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

@@ -56,10 +56,8 @@
                 android:background="@drawable/button_disabled"
                 android:backgroundTint="@color/twitter_blue_fill_pressed"
                 android:text="Ebeveyn Girişi" />
-
             <Button
                 android:layout_weight="1"
-                android:layout_marginLeft="5dp"
                 android:textColor="@color/white"
                 android:id="@+id/ebv_register"
                 android:layout_width="match_parent"
@@ -68,8 +66,9 @@
                 android:backgroundTint="@color/twitter_blue_fill_pressed"
                 android:text="Kayıt Ol"
                 android:onClick="kayitOl"/>
-
         </LinearLayout>
+
+
 
         </LinearLayout>
 

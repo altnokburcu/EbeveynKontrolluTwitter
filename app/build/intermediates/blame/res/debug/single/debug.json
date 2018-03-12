@@ -2004,6 +2004,10 @@
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/debug/layout_activity_child.xml.flat",
+        "source": "/home/burcu/StudioProjects/twitterFilter/app/src/main/res/layout/activity_child.xml"
+    },
+    {
         "merged": "/home/burcu/StudioProjects/twitterFilter/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/home/burcu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/8493e87bce48e0bfb42680612fdede01/res/drawable/abc_btn_default_mtrl_shape.xml"
     },

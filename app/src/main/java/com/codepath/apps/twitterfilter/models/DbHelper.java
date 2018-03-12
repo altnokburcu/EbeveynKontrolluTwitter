@@ -52,10 +52,11 @@ public class DbHelper extends SQLiteOpenHelper {
     }
 
     public boolean kullaniciEkle(String user){
+        SQLiteDatabase db = this.getWritableDatabase();
+        db.delete(TABLE_USERS, null, null);
         try {
             SQLiteDatabase db1 = getReadableDatabase();
             if((int) DatabaseUtils.queryNumEntries(db1,TABLE_USERS) < 1){
-                SQLiteDatabase db = this.getWritableDatabase();
                 ContentValues content = new ContentValues();
                 content.put("user_name", user);
                 db.insert(TABLE_USERS, null, content);
@@ -64,7 +65,6 @@ public class DbHelper extends SQLiteOpenHelper {
 
             }
             else {
-
                 return false;
             }
         }
@@ -72,9 +72,6 @@ public class DbHelper extends SQLiteOpenHelper {
             return false;
         }
     }
-   /* public String kullaniciCek(){
-
-    }*/
 
 
     public String[] getVt(){
