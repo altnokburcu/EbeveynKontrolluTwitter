@@ -8,7 +8,7 @@ import org.parceler.IdentityCollection;
 import org.parceler.ParcelWrapper;
 import org.parceler.ParcelerRuntimeException;
 
-@Generated(value = "org.parceler.ParcelAnnotationProcessor", date = "2018-03-12T20:34+0300")
+@Generated(value = "org.parceler.ParcelAnnotationProcessor", date = "2018-06-07T12:34+0300")
 @SuppressWarnings({
     "unchecked",
     "deprecation"

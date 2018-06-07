@@ -28,6 +28,7 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 
 import org.json.JSONArray;
@@ -203,7 +204,6 @@ public class TweetsListFragment extends Fragment {
             getList();
             // clear old items before appending new ones
             tweetAdapter.clear();
-
             List<Tweet> new_tweets = new ArrayList<Tweet>();
 
             for (int i = 0; i < response.length(); i++) {
@@ -256,6 +256,9 @@ public class TweetsListFragment extends Fragment {
             Log.d("kullanici",kullanici);
             isChild(kullanici);
         }
+        else {
+            filterList.clear();
+        }
     }
     public boolean filter(String tweetContent){
         boolean status = false;
@@ -307,6 +310,26 @@ public class TweetsListFragment extends Fragment {
             DatabaseReference myRef = database.getReference()
                     .child("users").child(auth.getCurrentUser().getUid()).child("childs");
             Log.d("getuid",auth.getCurrentUser().getUid());
+
+            Query query = myRef.orderByChild("name").equalTo(name);
+            query.addListenerForSingleValueEvent(new ValueEventListener() {
+                @Override
+                public void onDataChange(DataSnapshot dataSnapshot) {
+                    if(dataSnapshot.exists()){
+                        getFilterFromFirebase();
+                    }
+                    else {
+                        filterList.clear();
+                        Log.d("cocukyok","cocuk bulunamadı");
+                    }
+                }
+
+                @Override
+                public void onCancelled(DatabaseError databaseError) {
+
+                }
+            });
+            /*
             myRef.addListenerForSingleValueEvent(new ValueEventListener() {
                 @Override
                 public void onDataChange(DataSnapshot dataSnapshot) {
@@ -323,7 +346,7 @@ public class TweetsListFragment extends Fragment {
                 public void onCancelled(DatabaseError databaseError) {
 
                 }
-            });
+            });*/
         }
     }
 }

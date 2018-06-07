@@ -4,8 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
-
     tools:context="com.codepath.apps.twitterfilter.AddFilterActivity">
 <RelativeLayout
     android:padding="10dp"
@@ -45,7 +43,9 @@
         android:layout_below="@+id/userHeaderLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
     <EditText
         android:id="@+id/filtre"
         android:layout_width="match_parent"

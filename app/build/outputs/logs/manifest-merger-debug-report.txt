@@ -12,7 +12,7 @@ MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/burcu/.gradle/cac
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/75df91c2c3f4c3aa77fc9784bee90c74/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f067c71190927b980173b6a33accb89a/AndroidManifest.xml:17:1-28:12
 MERGED from [jp.wasabeef:glide-transformations:2.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/glide-transformations-2.0.2.aar/369742b1d46683574b8c9a29952c1423/AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b69003270cba1b62b9f798b5c14d3ecb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/745a4562374b29e396e3b4d99c5a0194/AndroidManifest.xml:2:1-11:12
 MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/gpuimage-library-1.4.1.aar/bb2a288f1a95e5b3de6eed572151df32/AndroidManifest.xml:2:1-12:12
 MERGED from [com.jakewharton:butterknife:8.6.0] /home/burcu/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/2627908e5db8fbbae478d85b1d02fd95/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-core:11.0.4] /home/burcu/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/67bb12837923e7cfb1e32c1edbf1b518/AndroidManifest.xml:2:1-6:12
@@ -90,8 +90,8 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/burcu/.g
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/75df91c2c3f4c3aa77fc9784bee90c74/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f067c71190927b980173b6a33accb89a/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f067c71190927b980173b6a33accb89a/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b69003270cba1b62b9f798b5c14d3ecb/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b69003270cba1b62b9f798b5c14d3ecb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/745a4562374b29e396e3b4d99c5a0194/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/745a4562374b29e396e3b4d99c5a0194/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-core:11.0.4] /home/burcu/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/67bb12837923e7cfb1e32c1edbf1b518/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.0.4] /home/burcu/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/67bb12837923e7cfb1e32c1edbf1b518/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-auth:11.0.4] /home/burcu/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/8648a58809368150236329adcfe0aca2/AndroidManifest.xml:19:5-20:19
@@ -238,8 +238,8 @@ MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/burcu/.gr
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f067c71190927b980173b6a33accb89a/AndroidManifest.xml:20:5-43
 MERGED from [jp.wasabeef:glide-transformations:2.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/glide-transformations-2.0.2.aar/369742b1d46683574b8c9a29952c1423/AndroidManifest.xml:8:5-10:41
 MERGED from [jp.wasabeef:glide-transformations:2.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/glide-transformations-2.0.2.aar/369742b1d46683574b8c9a29952c1423/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b69003270cba1b62b9f798b5c14d3ecb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b69003270cba1b62b9f798b5c14d3ecb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/745a4562374b29e396e3b4d99c5a0194/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/burcu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/745a4562374b29e396e3b4d99c5a0194/AndroidManifest.xml:5:5-7:41
 MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/gpuimage-library-1.4.1.aar/bb2a288f1a95e5b3de6eed572151df32/AndroidManifest.xml:8:5-10:41
 MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] /home/burcu/.gradle/caches/transforms-1/files-1.1/gpuimage-library-1.4.1.aar/bb2a288f1a95e5b3de6eed572151df32/AndroidManifest.xml:8:5-10:41
 MERGED from [com.jakewharton:butterknife:8.6.0] /home/burcu/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/2627908e5db8fbbae478d85b1d02fd95/AndroidManifest.xml:5:5-43

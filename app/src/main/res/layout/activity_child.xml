@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.codepath.apps.twitterfilter.ChildActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/current_child_name"
+        android:layout_alignParentRight="true"
+        />
+    <TextView
+      android:layout_below="@+id/current_child_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kayıtlı Çocuklar"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/childs"
+        android:textSize="20dp"
+        android:textStyle="bold"
+    />
+    <TextView
+        android:layout_below="@+id/childs"
+        android:paddingTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Items"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/child_names"
+
+        />
+
+    <EditText
+        android:id="@+id/edttxt_child_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/child_names"/>
+    <LinearLayout
+        android:layout_below="@+id/edttxt_child_name"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/password"
+            android:padding="5dp"
+            android:layout_centerHorizontal="true"
+            android:weightSum="2">
+
+            <Button
+                android:id="@+id/btn_child_add"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:background="@drawable/button_disabled"
+                android:backgroundTint="@color/twitter_blue_fill_pressed"
+                android:text="Çocuk Ekle"
+                android:layout_marginRight="5dp"
+                android:onClick="childAdd"
+
+               />
+
+            <Button
+                android:id="@+id/btn_child_delete"
+                android:layout_marginLeft="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Çocuk Sil"
+                android:background="@drawable/button_disabled"
+                android:textColor="@color/white"
+                android:backgroundTint="@color/twitter_blue_fill_pressed"
+                android:onClick="childDelete"
+                />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

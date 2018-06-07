@@ -4,17 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.codepath.apps.twitterfilter.ParentActivity">
+    tools:context="com.codepath.apps.twitterfilter.ParentActivity"
+    android:paddingRight="20dp"
+    android:paddingLeft="20dp">
 
     <RelativeLayout
+
         android:id="@+id/wideLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp"
         tools:ignore="MissingConstraints"
-        android:paddingRight="20dp"
-        android:paddingLeft="20dp"
+
         android:gravity="center">
 
         <EditText

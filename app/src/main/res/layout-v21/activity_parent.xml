@@ -10,7 +10,9 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_centerVertical="true">
+    android:layout_centerVertical="true"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp">
 
     <ImageView
         android:id="@+id/img"
@@ -27,7 +29,9 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:hint="Kullanıcı Adı"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="6dp"/>
 
         <EditText
             android:id="@+id/password"
@@ -37,7 +41,9 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="10dp"
             android:hint="@string/parola"
-            android:inputType="textPassword" />
+            android:inputType="textPassword"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"/>
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"

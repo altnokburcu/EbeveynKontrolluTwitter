@@ -107,4 +107,16 @@ public class DbHelper extends SQLiteOpenHelper {
             return null;
         }
     }
+
+    public void kullaniciSil(){
+
+        try{
+
+            SQLiteDatabase db = getWritableDatabase();
+            db.execSQL("delete from "+ TABLE_USERS);
+        }
+        catch (Exception e) {
+
+        }
+    }
 }
