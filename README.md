@@ -10,8 +10,8 @@ Projenin arayüzü sayesinde ebeveynler çocuklarını argo kelimelerden ya da z
 # Kullanılan Teknolojiler
 Projede Twitter API’den faydalanılmıştır. API,  bir uygulamaya ait yeteneklerin, başka bir uygulamada da kullanılabilmesi için, yeteneklerini paylaşan uygulamanın sağladığı arayüzdür. Bu arayüzün kullanılması için Twitter’ın geliştiriciler için hazırladığı sayfadan API anahtarı alınmıştır. Alınan API anahtarı sayesinde veriler Twitter’dan çekilmiştir.
 
--Projede **Twitter API** kullanılmıştır.
--**Android Studio** ortamında *Java* programlama dili kullanılarak geliştirilmiştir. 
--Uygulama Android işletim sistemine sahip cihazlar(telefon,tablet) için geliştirilmiştir.
--Veritabanı olarak **Google Firebase Realtime Database** ve **SQLite** kullanılmıştır.
--Kullanıcı işlemleri için **Google Firebase Authentication** kullanılmıştır.
+- Projede **Twitter API** kullanılmıştır.
+- **Android Studio** ortamında *Java* programlama dili kullanılarak geliştirilmiştir. 
+- Uygulama Android işletim sistemine sahip cihazlar(telefon,tablet) için geliştirilmiştir.
+- Veritabanı olarak **Google Firebase Realtime Database** ve **SQLite** kullanılmıştır.
+- Kullanıcı işlemleri için **Google Firebase Authentication** kullanılmıştır.
