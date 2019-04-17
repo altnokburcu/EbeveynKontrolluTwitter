@@ -29,7 +29,7 @@ Thanks to the interface of the project, parents will be able to protect their ch
 The Twitter API was used in the project. The API is the interface provided by the application that shares the capabilities of an application so that it can be used in another application. To use this interface, the API key is taken from the Twitter page for developers. The data was retrieved from Twitter with the API key received.
 
 - **Twitter API** is used in the project.
-- Developed using **Java** programming language in Android Studio ** environment.
+- Developed using **Java** programming language in **Android Studio** environment.
 - The application was developed for devices (phones, tablets) with Android operating system.
 - In the database **Google Firebase Realtime Databas** and **SQLite** are used.
 - **Google Firebase Authentication** is used for user actions.
