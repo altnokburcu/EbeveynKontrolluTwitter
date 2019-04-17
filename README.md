@@ -11,7 +11,7 @@ Projenin arayüzü sayesinde ebeveynler çocuklarını argo kelimelerden ya da z
 Projede Twitter API’den faydalanılmıştır. API,  bir uygulamaya ait yeteneklerin, başka bir uygulamada da kullanılabilmesi için, yeteneklerini paylaşan uygulamanın sağladığı arayüzdür. Bu arayüzün kullanılması için Twitter’ın geliştiriciler için hazırladığı sayfadan API anahtarı alınmıştır. Alınan API anahtarı sayesinde veriler Twitter’dan çekilmiştir.
 
 - Projede **Twitter API** kullanılmıştır.
-- **Android Studio** ortamında *Java* programlama dili kullanılarak geliştirilmiştir. 
+- **Android Studio** ortamında **Java** programlama dili kullanılarak geliştirilmiştir. 
 - Uygulama Android işletim sistemine sahip cihazlar(telefon,tablet) için geliştirilmiştir.
 - Veritabanı olarak **Google Firebase Realtime Database** ve **SQLite** kullanılmıştır.
 - Kullanıcı işlemleri için **Google Firebase Authentication** kullanılmıştır.
@@ -28,8 +28,8 @@ Thanks to the interface of the project, parents will be able to protect their ch
 # Used technologies
 The Twitter API was used in the project. The API is the interface provided by the application that shares the capabilities of an application so that it can be used in another application. To use this interface, the API key is taken from the Twitter page for developers. The data was retrieved from Twitter with the API key received.
 
-- ** Twitter API ** is used in the project.
-- ** Developed using * Java * programming language in Android Studio ** environment.
+- **Twitter API** is used in the project.
+- Developed using **Java** programming language in Android Studio ** environment.
 - The application was developed for devices (phones, tablets) with Android operating system.
-- In the database ** Google Firebase Realtime Database ** and ** SQLite ** are used.
-- ** Google Firebase Authentication ** is used for user actions.
+- In the database **Google Firebase Realtime Databas** and **SQLite** are used.
+- **Google Firebase Authentication** is used for user actions.
